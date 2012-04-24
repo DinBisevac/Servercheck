@@ -8,8 +8,8 @@ Servercheck
 * There are different kinds of notification: 
   * No notification
   * Email notification
-  * [Twitter notification] //planned
-  * [SMS notification (at the moment germany only)] //planned
+  * _[Twitter notification] //planned_
+  * _[SMS notification (at the moment germany only)] //planned_
 * You can set the interval of notification (e.g. after 3 downtimes)
-* [It is possible to get the serverdata via an api, so you can use this script also in other programs/etc.] //planned
+* _[It is possible to get the serverdata via an api, so you can use this script also in other programs/etc.] //planned_
 * And last but not least: __It's OpenSource!__
